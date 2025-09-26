@@ -1,24 +1,52 @@
-# 💫 About Me:
-🔭 I’m currently working on crafting a sleek portfolio and bringing ideas to life with front-end magic! ✨<br>🤝 I’m looking to collaborate on web development projects that challenge creativity and innovation. 🚀<br>✋ I’m looking for help with making my portfolio responsive—because great designs should look good everywhere! 📱<br>🌱 I’m currently learning front-end wizardry and sharpening my C++ problem-solving skills. 💻<br>💬 Ask me about software engineering, electronics simulations, or cool coding tricks! 🛠️<br>⚡ Fun fact: I love turning ideas into interactive experiences and geeking out over new tech trends! 🤓
+<h4 align="center">𝑴𝒂𝒉𝒏𝒐𝒐𝒓 𝑺𝒉𝒖𝒂𝒊𝒃:<br>𝐴 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑠𝑡𝑢𝑑𝑒𝑛𝑡 𝑓𝑟𝑜𝑚 𝑆𝑖𝑛𝑑ℎ, 𝑃𝑎𝑘𝑖𝑠𝑡𝑎𝑛, 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑡ℎ𝑒 𝑓𝑢𝑡𝑢𝑟𝑒 𝑜𝑓 𝑡𝑒𝑐ℎ, 𝑜𝑛𝑒 𝑙𝑖𝑛𝑒 𝑜𝑓 𝑐𝑜𝑑𝑒 𝑎𝑡 𝑎 𝑡𝑖𝑚𝑒.</h4>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahnoor-s-46ba59327/) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-Shuaib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahnoor-Shuaib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahnoor-shuaib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor-shuaib&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-shuaib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mahnoor-shuaib&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Mahnoor-shuaib&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/mano.shuaib?igsh=cmczeDBwMzJnZDNm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:mahnoorshuaibmemon@gmai;.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mahnoor-s-46ba59327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Mahnoor-Shuaib/Mahnoor-Shuaib/output/snake.svg" alt="Snake animation" />
+
+###
